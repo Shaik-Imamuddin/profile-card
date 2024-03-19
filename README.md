@@ -11,3 +11,9 @@
 ->it will rotate 180deg and displays About information
 ->along with about information i placed some social buttons like linkedin and github etc
 ->if we clicked on social buttons i will be navigated to the specific social profile
+
+# card_rotate
+-> in card_rotate project the container-card will be displayed with a image and Name.
+->if you hover on the container-card.
+->the image-box container will remain same and card container will rotate as per given degree value
+->after hovering on the container then the name will be displayed
