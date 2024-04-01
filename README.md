@@ -1,3 +1,7 @@
+----TECH STACK----
+->HTML
+->CSS
+
 # profile-card
 -> in profile card project the card will be displayed with a image and Background container
 ->if you hover on the container
